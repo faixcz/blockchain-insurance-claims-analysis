@@ -1,9 +1,9 @@
 # blockchain-insurance-claims-analysis
 Blockchain implementation analysis for improving slow and complex insurance claims at Prudential plc, focusing on transparency, fraud reduction, and operational efficiency.
-Assessment 1 – Blockchain Implementation Analysis on 
+#Assessment 1 – Blockchain Implementation Analysis on 
 Prudential plc 
-Topic: Slow and Complex Insurance Claims 
-Executive Summary 
+#Topic: Slow and Complex Insurance Claims 
+#Executive Summary 
 Prudential plc operates in various markets in Asia and Africa, offering life and health 
 insurance products that rely heavily on efficient and reliable claims processing. 
 Complexity in claims, such as in the case hospitalization, surgeries, and long-term 
